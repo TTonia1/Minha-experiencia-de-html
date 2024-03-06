@@ -1,0 +1,16 @@
+#nome{
+    text-align: center;
+    color: red;
+}
+section img{
+    max-width:800px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+}
+#alinhar{
+    text-align: center;
+}
+#link{
+    color:red;
+}
